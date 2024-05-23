@@ -16,3 +16,5 @@ input_element = driver.find_element(By.CLASS_NAME,"gLFyf").send_keys("hosanna of
 time.sleep(10)
 
 driver.quit()
+
+print("This is python-selenium set up")
